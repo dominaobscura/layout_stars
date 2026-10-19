@@ -1,6 +1,4 @@
 .stars:not(:last-child) {
-  width: 96px;
-  height: 16px;
   box-sizing: border-box;
 }
 
